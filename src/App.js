@@ -1,5 +1,7 @@
+import './styles/global.css';
+
 function App() {
-  return <div>React Dogs</div>;
+  return <div></div>;
 }
 
 export default App;
